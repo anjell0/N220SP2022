@@ -1,4 +1,8 @@
 function setup() {
+//    Angelo Allen
+//    January 12, 2022
+//    N220-20816
+   
     var lightgreen = "#A8CF52"
     var limegreen = "#B9D8AF"
     var dlightgreen = "#68A55A"
